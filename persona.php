@@ -18,21 +18,21 @@ class persona{
 
 //instancias
 $pepe=new persona();
-$pepe->nombre='José de la Cuadra';
+$pepe->nombre='Josï¿½ de la Cuadra';
 $pepe->edad=33;
 
 $pepe->moverse('Universidad');
-$pepe->estudiar('Informática');
+$pepe->estudiar('Informï¿½tica');
 $pepe->moverse();
 
 $maria=new persona();
-$maria->nombre='María López';
+$maria->nombre='Marï¿½a Lï¿½pez';
 $maria->edad=31;
 
 $maria->moverse('Universidad');
-$maria->estudiar('Matemáticas');
+$maria->estudiar('Matemï¿½ticas');
 $maria->moverse();
 
 echo 'Hola: ' . $pepe->nombre . '<hr/>';
 echo 'Hola: ' . $maria->nombre . '<br/>';
-echo '<strong>Saludos</strong>';
+echo '<strong>Saludos por KLEBER POSLIGUA</strong>';
